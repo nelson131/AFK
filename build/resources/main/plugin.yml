@@ -1,0 +1,9 @@
+name: AFK
+main: me.nelson131.afk.AFK
+version: 1.0.0
+api-version: 1.19
+description: afk plugin
+author: nelson131
+commands:
+  afk:
+    description: toggle
